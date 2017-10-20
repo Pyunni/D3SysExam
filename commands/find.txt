@@ -1,0 +1,19 @@
+./.Trash/find 4.04.38 PM.txt
+./.Trash/find 4.04.59 PM.txt
+./.Trash/find 4.05.13 PM.txt
+./.Trash/find 4.05.35 PM.txt
+./.Trash/find.txt
+./.Trash/htdocs/commands/desktopls.txt
+./.Trash/htdocs/img/img.txt
+./.Trash/top.txt
+./Desktop/myGit/D3SysExam/commands/bottom.txt
+./Desktop/myGit/D3SysExam/commands/desktopls.txt
+./Desktop/myGit/D3SysExam/commands/top.txt
+./Desktop/myGit/D3SysExam/img/img.txt
+./find.txt
+./htdocs/commands/desktopls.txt
+./htdocs/img/img.txt
+./Library/Application Support/Avid/AppManager/Config.txt
+./Library/Application Support/TextWrangler/.SupportFolderMigration.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000001-csi.txt
